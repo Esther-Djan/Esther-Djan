@@ -8,7 +8,7 @@
 ## Summary
 M.S. Cybersecurity Student at Grand Valley State University  
 Certified in Cybersecurity (CC) | AWS Certified Cloud Practitioner  
-IT & Cybersecurity Professional with 7+ years of experience  
+IT & Cybersecurity Professional with 7+ years of working experience in telecommunications
 Passionate about GRC, Cloud Security, Threat Detection, and Digital Privacy  
 
 ---
