@@ -98,8 +98,12 @@ Designed and launched an interactive compliance and privacy awareness training e
 ---
 
 ## Experience
-### Cybersecurity Analyst  
+
+### Cybersecurity Analyst | DevOps Team  
 Project Grand Path (REP4®FinLit)
+
+- Collaborate with the DevOps team to support secure deployment, maintenance, and monitoring of web applications and digital platforms.
+- Assist in implementing cybersecurity best practices, vulnerability monitoring, and secure content management to enhance platform security and reliability.
 
 ### Programming Specialist Graduate Assistant  
 Grand Valley State University – College of Computing
