@@ -15,7 +15,7 @@ Passionate about GRC, Cloud Security, Threat Detection, and Digital Privacy
 
 ## About Me
 
-I am a cybersecurity and IT professional with experience in telecommunications, customer experience, web content management, and security operations. I am currently pursuing a Master of Science in Cybersecurity at Grand Valley State University with a 4.0 GPA.
+I am a cybersecurity and IT professional with experience in telecommunications, customer experience, web content management, and security operations. I am currently pursuing a Master of Science in Cybersecurity at Grand Valley State University with a 3.9 GPA.
 
 My interests include:
 - Governance, Risk & Compliance (GRC)
